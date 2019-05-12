@@ -1,6 +1,6 @@
 public class Solution {
 
     public static void main(String[] args){
-        System.out.println("Here will be the solution");
+        System.out.println("Here will be the  new type of solution");
     }
 }
